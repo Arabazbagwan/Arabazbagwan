@@ -6,7 +6,7 @@
     created to help me in my work.🤖.</h3>
 <hr>
 
-<img align="right" alt="Coding" width="400" height="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
+<img align="right" alt="Coding" width="350" height="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 <h2 align="left">DevOps Skills :</h2>
 <a href="https://aws.amazon.com/" rel="nofollow">
@@ -49,13 +49,13 @@
 </a>
 <a href="https://pages.github.com/?(null)" data-target="animated-image.originalLink">
     <img src="https://camo.githubusercontent.com/f5986f0f631b304f434616e3e416b5a8a83bc3a1e888747944f2dcb308d613e1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b483144426b504e795a504f6b304278724d2f67697068792e676966"
-        data-canonical-src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height="70"
+        data-canonical-src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height="60"
         style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </a>
 
 <a href="https://code.visualstudio.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270"
-        height="70" data-canonical-src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" style="max-width: 100%;">
+        height="60" data-canonical-src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" style="max-width: 100%;">
 </a>
 <h2 align="left">Monitoring : </h2>
 
