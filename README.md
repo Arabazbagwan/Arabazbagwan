@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" height="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
-<h2 align="left">DevOps Skills:</h2>
+<h2 align="left">DevOps Skills :</h2>
 <a href="https://aws.amazon.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/6d9d7d13623d57e57f18107fe99905c9954f48ce790f69206fe33d511254544f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616d617a6f6e5f6177732f616d617a6f6e5f6177732d69636f6e2e737667"
         height="80" data-canonical-src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"
@@ -63,7 +63,7 @@
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="80"
         style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">&nbsp;&nbsp;
 </a>
-<h2 align="left">Frontend Development</h2>
+<h2 align="left">Frontend Development : </h2>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -77,7 +77,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react" width="40" height="80" /> </a>
-        <h3 align="left">Connect with me:</h3>
+        <h3 align="left">Connect with me :</h3>
 <p align="left">
     <a href="https://linkedin.com/in/arabaz bagwan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
